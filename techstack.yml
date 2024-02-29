@@ -2,7 +2,7 @@ repo_name: ClaraLopezUribe/TestimonialFree
 report_id: bc792b6b6ee74c75fa0e17254464329b
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:17:48+00:00'
+timestamp: '2024-02-29T18:11:43+00:00'
 requested_by: ClaraLopezUribe
 provider: github
 branch: main
@@ -71,7 +71,7 @@ tools:
   last_updated_by: thisisazeez
   last_updated_on: 2023-01-23 11:44:29.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.1.4
   open_source: true
@@ -161,7 +161,7 @@ tools:
   last_updated_by: thisisazeez
   last_updated_on: 2023-01-23 11:44:29.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.8.3
   license: MIT
@@ -175,7 +175,7 @@ tools:
   last_updated_by: thisisazeez
   last_updated_on: 2023-01-23 11:44:29.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 6.3.3
   license: MIT
